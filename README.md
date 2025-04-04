@@ -1,2 +1,2 @@
 # cse190-lab1
-I like python a lot
+I enjoy programming in java a lot
